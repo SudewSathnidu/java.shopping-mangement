@@ -1,0 +1,6 @@
+ProductID,ProductName,AvailableItems,Price,Type,SpecificDetails
+#123,kettle ,23,123.0,Electronics,Brand:siger;WarrantyPeriod:2
+#234,cap,6,45.0,Clothing,Size:3;Color:red
+#345,jug,2,5600.0,Electronics,Brand:dfg;WarrantyPeriod:23
+123,2,4,100.0,Electronics,Brand:red;WarrantyPeriod:2
+new ,soup,3,100.0,Electronics,Brand:hey;WarrantyPeriod:2
